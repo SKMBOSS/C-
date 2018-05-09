@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TETRIS", "TETRIS\TETRIS.vcxproj", "{41814645-C187-4AB7-AA9E-CFF2DB40E896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41814645-C187-4AB7-AA9E-CFF2DB40E896}.Debug|Win32.ActiveCfg = Debug|Win32
+		{41814645-C187-4AB7-AA9E-CFF2DB40E896}.Debug|Win32.Build.0 = Debug|Win32
+		{41814645-C187-4AB7-AA9E-CFF2DB40E896}.Release|Win32.ActiveCfg = Release|Win32
+		{41814645-C187-4AB7-AA9E-CFF2DB40E896}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
